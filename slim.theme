@@ -51,3 +51,7 @@ username_shadow_color   #666666
 password_msg		Password:
 password_x              36
 password_y              111
+
+text_widget_font 	Verdana:size=16:bold
+text_widget_x		50%
+text_widget_y   	90%
